@@ -125,4 +125,5 @@ O projecto inclui:
 🧑‍💻 Autor
 
 Emily Coelho Manenti
+
 Desenvolvimento de Software • Delphi • Aplicações Desktop
